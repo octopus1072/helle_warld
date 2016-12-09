@@ -1,3 +1,3 @@
 # helle_warld
 
-The quick orange fox jumps over the lazy dog
+The quick slimy fox jumps over the lazy dog
